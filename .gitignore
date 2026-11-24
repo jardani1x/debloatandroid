@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Sensitive or device-specific binary dumps
+*.png
+logs/transactions.jsonl
+!logs/.gitkeep
+
+# Local device backups and raw dumps containing hardware serials/settings
+backups/backup_*/
+backups/raw/
+

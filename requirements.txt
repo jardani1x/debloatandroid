@@ -1,0 +1,3 @@
+# CleanYourPhone requires only Python standard library components and ADB platform-tools
+# Optional development dependencies:
+pytest>=7.0.0

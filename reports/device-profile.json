@@ -1,0 +1,39 @@
+{
+  "device_id": "adb-UBS1241116012667-mmsCJ7._adb-tls-connect._tcp",
+  "manufacturer": "Oyster_Labs",
+  "brand": "Oyster_Labs",
+  "model": "UBS1",
+  "codename": "Universal_Phone_1",
+  "android_version": "14",
+  "sdk_level": "34",
+  "firmware_build": "Oyster_Labs_UBS1_E091W_V2.0_20241105",
+  "security_patch": "2024-09-05",
+  "oem_os": "OEM: Oyster_Labs",
+  "cpu_arch": "arm64-v8a",
+  "total_ram": "5,889,020K (status normal)",
+  "available_ram": "2,829,739K (  309,979K cached pss + 2,219,924K cached kernel +   299,836K free)",
+  "internal_storage_total": "112G",
+  "internal_storage_available": "19G",
+  "battery": {
+    "level": "52",
+    "scale": "100",
+    "status": "2",
+    "health": "2",
+    "temperature": "332",
+    "technology": "Li-ion"
+  },
+  "active_user": "UserInfo{0:Owner:4c13} running",
+  "default_apps": {
+    "launcher": "Launcher: ComponentInfo{com.android.launcher3/com.android.searchlauncher.SearchLauncher}\nSuccess",
+    "keyboard": "com.google.android.inputmethod.latin/com.android.inputmethod.latin.LatinIME",
+    "dialer": "com.google.android.dialer",
+    "sms": "null",
+    "webview": "Current WebView Update Service state"
+  },
+  "package_counts": {
+    "total": 346,
+    "system": 252,
+    "third_party": 94,
+    "disabled": 4
+  }
+}

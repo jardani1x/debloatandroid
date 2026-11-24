@@ -1,0 +1,22 @@
+{
+  "name": "conservative",
+  "count": 16,
+  "packages": [
+    "com.android.bips",
+    "com.android.bookmarkprovider",
+    "com.android.dreams.basic",
+    "com.android.dreams.phototable",
+    "com.android.egg",
+    "com.android.providers.partnerbookmarks",
+    "com.google.android.printservice.recommendation",
+    "com.hxy.hxylivewallpaperone",
+    "com.hxy.hxylivewallpaperthree",
+    "com.hxy.hxylivewallpapertwo",
+    "com.hxywizard",
+    "com.spk.universal",
+    "com.sprd.camta",
+    "com.sprd.validationtools",
+    "com.teksun.factorytest",
+    "com.yft.miniscreen"
+  ]
+}

@@ -1,0 +1,2084 @@
+{
+  "com.teksun.factorytest": {
+    "package": "com.teksun.factorytest",
+    "path": "/system/priv-app/FactoryTest/FactoryTest.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.emergency": {
+    "package": "com.android.emergency",
+    "path": "/system_ext/priv-app/EmergencyInfoGms/EmergencyInfoGms.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.openai.chatgpt": {
+    "package": "com.openai.chatgpt",
+    "path": "/data/app/~~o2ragxO47VXhJ5yM8c0Vow==/com.openai.chatgpt-k5vJK8ayCZhM65UTqYgQ4g==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.google.android.apps.tachyon": {
+    "package": "com.google.android.apps.tachyon",
+    "path": "/data/app/~~3k-FcnDhyVl6zCHez2NSKQ==/com.google.android.apps.tachyon-oJjpBE6FwaQ3zpycwPK0ZA==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.tradingview.tradingviewapp": {
+    "package": "com.tradingview.tradingviewapp",
+    "path": "/data/app/~~P21AGK5Ftb9g1j5Z0WBQUg==/com.tradingview.tradingviewapp-l90prVx3t2gfaLtODT2SBg==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.jambo": {
+    "package": "com.jambo",
+    "path": "/data/app/~~rZ8_EC5BEZuamgU56ZJmFA==/com.jambo-TRki4b3NpG1pHZbeU6VsUw==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.android.systemui": {
+    "package": "com.android.systemui",
+    "path": "/system_ext/priv-app/SystemUI/SystemUI.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.android.overlay.gmsconfig.personalsafety": {
+    "package": "com.google.android.overlay.gmsconfig.personalsafety",
+    "path": "/product/overlay/GmsConfigOverlayPersonalSafety.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.bookmarkprovider": {
+    "package": "com.android.bookmarkprovider",
+    "path": "/system/app/BookmarkProvider/BookmarkProvider.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.lazada.android": {
+    "package": "com.lazada.android",
+    "path": "/data/app/~~OddEmfnCmBCNN3U5UY6RVg==/com.lazada.android-kSiyXOpBkFWOscUo59FDnw==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.android.rkpdapp": {
+    "package": "com.android.rkpdapp",
+    "path": "/apex/com.android.rkpd/priv-app/rkpdapp@UP1A.231005.007/rkpdapp.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.settings.intelligence": {
+    "package": "com.android.settings.intelligence",
+    "path": "/product/priv-app/SettingsIntelligence/SettingsIntelligence.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.axs": {
+    "package": "com.axs",
+    "path": "/data/app/~~oC5TItxXGwJrEesmbxdLvw==/com.axs-zXlBGSxztqPr7reVJLupWg==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.google.android.contacts": {
+    "package": "com.google.android.contacts",
+    "path": "/data/app/~~kksSrp1eRF--No2G2UwAvw==/com.google.android.contacts-1-haVN8xH8ffDo9qdURw8g==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.google.android.overlay.modules.documentsui": {
+    "package": "com.google.android.overlay.modules.documentsui",
+    "path": "/product/overlay/GoogleDocumentsUIOverlay.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.android.inputmethod.latin": {
+    "package": "com.google.android.inputmethod.latin",
+    "path": "/data/app/~~_hkD207AyafC74pSmQ3MLw==/com.google.android.inputmethod.latin-XMQlfSvC9M0ewV5M4sevwg==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.google.android.apps.chromecast.app": {
+    "package": "com.google.android.apps.chromecast.app",
+    "path": "/data/app/~~b8zca1FDAGIrRd0D0msowQ==/com.google.android.apps.chromecast.app-5go0FIapthm4ZkpZGJQrfQ==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.android.virtualmachine.res": {
+    "package": "com.android.virtualmachine.res",
+    "path": "/apex/com.android.virt/app/android.system.virtualmachine.res@UP1A.231005.007/android.system.virtualmachine.res.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.hxy.hxylivewallpapertwo": {
+    "package": "com.hxy.hxylivewallpapertwo",
+    "path": "/system/app/HxyLiveWallpaperTwo/HxyLiveWallpaperTwo.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.wifimacsettings": {
+    "package": "com.android.wifimacsettings",
+    "path": "/system/priv-app/WifiMacSettings/WifiMacSettings.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.spreadtrum.ims": {
+    "package": "com.spreadtrum.ims",
+    "path": "/system_ext/priv-app/ims/ims.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "sg.gov.imda.wsgapp2_android": {
+    "package": "sg.gov.imda.wsgapp2_android",
+    "path": "/data/app/~~QT5dAs2T3y3qxza6WZ5F5Q==/sg.gov.imda.wsgapp2_android-hamCjvYQVIixwk9Vhrb-qg==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.sia.krispay.customer": {
+    "package": "com.sia.krispay.customer",
+    "path": "/data/app/~~zRPuuLcIYRpJAK72IRJ17g==/com.sia.krispay.customer-QClkkTjD5xW2f7uHr-ACZw==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.android.devicelockcontroller": {
+    "package": "com.android.devicelockcontroller",
+    "path": "/apex/com.android.devicelock/priv-app/DeviceLockController@UP1A.231005.007/DeviceLockController.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.android.googlequicksearchbox": {
+    "package": "com.google.android.googlequicksearchbox",
+    "path": "/data/app/~~eBcsXZGeHphLKJgO9kh_dg==/com.google.android.googlequicksearchbox-dfOFfu8ZiR0v7FbeFmLzUg==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "sg.mediacorp.android": {
+    "package": "sg.mediacorp.android",
+    "path": "/data/app/~~By32cMZ7c6mrHuqBXnuw8A==/sg.mediacorp.android-zsqToJ4JdpeC6IEFJP5GNQ==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "android.unisoc.color_display.overlay": {
+    "package": "android.unisoc.color_display.overlay",
+    "path": "/vendor/overlay/unisoc_overlay_colordisplay.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.android.tag": {
+    "package": "com.google.android.tag",
+    "path": "/system/priv-app/TagGoogle/TagGoogle.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.android.overlay.modules.permissioncontroller": {
+    "package": "com.google.android.overlay.modules.permissioncontroller",
+    "path": "/product/overlay/GooglePermissionControllerOverlay.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.flightradar24free": {
+    "package": "com.flightradar24free",
+    "path": "/data/app/~~sTs3_sihuQWrDc98yu_rWw==/com.flightradar24free-DDvpcTnQ_reNGoBC1qUdGw==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.google.android.networkstack.overlay": {
+    "package": "com.google.android.networkstack.overlay",
+    "path": "/vendor/overlay/NetworkStackOverlay.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.android.permissioncontroller": {
+    "package": "com.google.android.permissioncontroller",
+    "path": "/apex/com.android.permission/priv-app/GooglePermissionController@373041740/GooglePermissionController.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.android.keep": {
+    "package": "com.google.android.keep",
+    "path": "/data/app/~~p-cb142wel7hgn4Zkhm4Pw==/com.google.android.keep-0NPS-AeXtBpaB0E1Hp75sA==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.android.vending": {
+    "package": "com.android.vending",
+    "path": "/data/app/~~bOA3VpTek1GCCid-t90rBw==/com.android.vending-tQF7IOUzGslXzxAVQk4eGQ==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.android.unisoc.telephony.server": {
+    "package": "com.android.unisoc.telephony.server",
+    "path": "/system_ext/priv-app/radio_interactor_service/radio_interactor_service.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.bitchat.droid": {
+    "package": "com.bitchat.droid",
+    "path": "/data/app/~~Eie5RUBPviY9EJGipvwZjQ==/com.bitchat.droid-xGeX93jFnapRiSNGL2VMgw==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.android.providers.userdictionary": {
+    "package": "com.android.providers.userdictionary",
+    "path": "/system/priv-app/UserDictionaryProvider/UserDictionaryProvider.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.nianticlabs.pokemongo": {
+    "package": "com.nianticlabs.pokemongo",
+    "path": "/data/app/~~-DwAuRRkixAV_-SVWTSb5Q==/com.nianticlabs.pokemongo-3AGUSDVA4SxrM_rLWCgsrA==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.android.stk": {
+    "package": "com.android.stk",
+    "path": "/system_ext/app/UnisocStk/UnisocStk.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.android.packageinstaller": {
+    "package": "com.google.android.packageinstaller",
+    "path": "/system/priv-app/GooglePackageInstaller/GooglePackageInstaller.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.android.cellbroadcastreceiver": {
+    "package": "com.google.android.cellbroadcastreceiver",
+    "path": "/apex/com.android.cellbroadcast/priv-app/GoogleCellBroadcastApp@373040140/GoogleCellBroadcastApp.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.bips": {
+    "package": "com.android.bips",
+    "path": "/system/priv-app/BuiltInPrintService/BuiltInPrintService.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.internal.systemui.navbar.threebutton": {
+    "package": "com.android.internal.systemui.navbar.threebutton",
+    "path": "/product/overlay/NavigationBarMode3Button/NavigationBarMode3ButtonOverlay.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.kryxevents.dealtracker": {
+    "package": "com.kryxevents.dealtracker",
+    "path": "/data/app/~~d56FZEFVkMxfvKj_tpFo1Q==/com.kryxevents.dealtracker-FTuMRInBJ_UdfvGFcQZHaQ==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.unisoc.phone": {
+    "package": "com.unisoc.phone",
+    "path": "/system_ext/priv-app/UniTelephony/UniTelephony.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.hxy.hxylivewallpaperone": {
+    "package": "com.hxy.hxylivewallpaperone",
+    "path": "/system/app/HxyLiveWallpaperOne/HxyLiveWallpaperOne.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.keychain": {
+    "package": "com.android.keychain",
+    "path": "/system/app/KeyChain/KeyChain.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.mainline.telemetry": {
+    "package": "com.google.mainline.telemetry",
+    "path": "/data/app/~~Acipc7wANndVP_XCMPJeYA==/com.google.mainline.telemetry-rzN9vWRCngsM8NF4WQNroA==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.google.android.wifi.dialog": {
+    "package": "com.google.android.wifi.dialog",
+    "path": "/apex/com.android.wifi/app/WifiDialogGoogle@373041260/WifiDialogGoogle.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.dreams.phototable": {
+    "package": "com.android.dreams.phototable",
+    "path": "/product/app/PhotoTable/PhotoTable.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.customization.themes": {
+    "package": "com.android.customization.themes",
+    "path": "/product/app/ThemesStub/ThemesStub.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.wallpaper.livepicker": {
+    "package": "com.android.wallpaper.livepicker",
+    "path": "/system/priv-app/LiveWallpapersPicker/LiveWallpapersPicker.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.sprd.cameracalibration": {
+    "package": "com.sprd.cameracalibration",
+    "path": "/system_ext/app/CameraCalibration/CameraCalibration.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "org.zwanoo.android.speedtest": {
+    "package": "org.zwanoo.android.speedtest",
+    "path": "/data/app/~~lg9Ky1u35G2oyVI3tPg4pA==/org.zwanoo.android.speedtest-Kodo8nOiE0VosYn-zW_8gw==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.sprd.powersavemodelauncher": {
+    "package": "com.sprd.powersavemodelauncher",
+    "path": "/system_ext/priv-app/PowerSaveModeLauncher/PowerSaveModeLauncher.apk",
+    "original_state": "disabled",
+    "is_system": true
+  },
+  "com.google.android.overlay.gmsconfig.comms": {
+    "package": "com.google.android.overlay.gmsconfig.comms",
+    "path": "/product/overlay/GmsConfigOverlayComms.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.soundpicker": {
+    "package": "com.android.soundpicker",
+    "path": "/system/priv-app/SoundPicker/SoundPicker.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.internal.display.cutout.emulation.corner": {
+    "package": "com.android.internal.display.cutout.emulation.corner",
+    "path": "/product/overlay/DisplayCutoutEmulationCorner/DisplayCutoutEmulationCornerOverlay.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.lexa.fakegps": {
+    "package": "com.lexa.fakegps",
+    "path": "/data/app/~~OtkSTJsECovhbr_RDxAZ4A==/com.lexa.fakegps-ApRV6lVUFAWm_vGixuUyog==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.google.android.youtube": {
+    "package": "com.google.android.youtube",
+    "path": "/data/app/~~q8CRqbz8X6oijd8kOVRZkA==/com.google.android.youtube-t92I3ahL6Zh4WeEA5lQ0HA==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.android.dreams.basic": {
+    "package": "com.android.dreams.basic",
+    "path": "/system/app/BasicDreams/BasicDreams.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.lulian.ydcn": {
+    "package": "com.lulian.ydcn",
+    "path": "/data/app/~~uPU4kcCqrsydbaWxGHsWNg==/com.lulian.ydcn-aji_Yij9y6Y4JrJ28VBMDw==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "io.yellowcard.app": {
+    "package": "io.yellowcard.app",
+    "path": "/data/app/~~BgA0op7zbHg_a7_F1IJS9w==/io.yellowcard.app--vRRx4RGxq7R45E6BImeIQ==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.google.android.apps.restore": {
+    "package": "com.google.android.apps.restore",
+    "path": "/data/app/~~ArqMGmk3Wan7tl20mJiGlQ==/com.google.android.apps.restore-kHjJ6Uyklf31SpvIkxnHng==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.google.android.accessibility.switchaccess": {
+    "package": "com.google.android.accessibility.switchaccess",
+    "path": "/data/app/~~O1fUztGN9qIpmmcDgwT9FA==/com.google.android.accessibility.switchaccess-oOqDRxPnlsbyrVCWYNPlww==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.android.nfc": {
+    "package": "com.android.nfc",
+    "path": "/system/app/NfcNci/NfcNci.apk",
+    "original_state": "disabled",
+    "is_system": true
+  },
+  "app.revanced.manager.flutter": {
+    "package": "app.revanced.manager.flutter",
+    "path": "/data/app/~~-ksnGFaAPW-xLg5s9ocjwg==/app.revanced.manager.flutter-mmPk7HwbnW12DFSOcMs_Hw==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.tplink.aginet": {
+    "package": "com.tplink.aginet",
+    "path": "/data/app/~~wnFGZZQUqQXHOgreiwaByw==/com.tplink.aginet-pSS_psQs3agVf2e_a98sGQ==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.android.server.telecom.auto_generated_rro_product__": {
+    "package": "com.android.server.telecom.auto_generated_rro_product__",
+    "path": "/product/overlay/Telecom__auto_generated_rro_product.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.externalstorage": {
+    "package": "com.android.externalstorage",
+    "path": "/system/priv-app/ExternalStorageProvider/ExternalStorageProvider.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.android.ims": {
+    "package": "com.google.android.ims",
+    "path": "/data/app/~~3QztKG3IsD-SS1CJaIkupw==/com.google.android.ims-2rrgR25s8Q39puqxjY-Q_w==/base.apk",
+    "original_state": "disabled",
+    "is_system": false
+  },
+  "com.google.android.captiveportallogin": {
+    "package": "com.google.android.captiveportallogin",
+    "path": "/data/app/~~R1g6MlrGDQJf6VkPuNaoDQ==/com.google.android.captiveportallogin-I2wLqnye621cpEJKwsFWSA==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.unisoc.wifi": {
+    "package": "com.unisoc.wifi",
+    "path": "/system_ext/priv-app/UniWifi/UniWifi.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "org.torproject.android": {
+    "package": "org.torproject.android",
+    "path": "/data/app/~~GsB_9rQbwaTmoZmRoy_HCQ==/org.torproject.android-5M3Ij8SgMiXWuO6IhINcCw==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.alphainventor.filemanager": {
+    "package": "com.alphainventor.filemanager",
+    "path": "/data/app/~~tKRoYD_Yelpcf3ywHP4bCA==/com.alphainventor.filemanager-kVz2s1WnOZw9bZ9J_uwf5g==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.android.cts.ctsshim": {
+    "package": "com.android.cts.ctsshim",
+    "path": "/apex/com.android.apex.cts.shim/app/CtsShim@MASTER/CtsShim.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.screenshot": {
+    "package": "com.android.screenshot",
+    "path": "/system/app/Screenshot/Screenshot.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "app.revanced.android.gms": {
+    "package": "app.revanced.android.gms",
+    "path": "/data/app/~~XbsbzlAeFps6zP3b-LwYjQ==/app.revanced.android.gms-Jt7qwzH55K1o9-t6ICFkjQ==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.google.android.modulemetadata": {
+    "package": "com.google.android.modulemetadata",
+    "path": "/data/app/~~F2HL88a3gEIOcHIT6k9ZCw==/com.google.android.modulemetadata-Sr9qHDbXM7xRteAMvIs-pQ==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.microsoft.office.outlook": {
+    "package": "com.microsoft.office.outlook",
+    "path": "/data/app/~~5SA6MqSpb7qBW_EVYcJkug==/com.microsoft.office.outlook-TPk1ZSvyAfzYF_Ne9OGqjQ==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.google.android.accessibility.soundamplifier": {
+    "package": "com.google.android.accessibility.soundamplifier",
+    "path": "/data/app/~~V7I-Sp5_CKRjs2GQp4VR6w==/com.google.android.accessibility.soundamplifier-PH6yECZ69YSy8QK_CrOP4g==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.unisoc.android.networkstack.overlay": {
+    "package": "com.unisoc.android.networkstack.overlay",
+    "path": "/product/overlay/UnisocNetworkStackOverlay.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "org.chromium.webapk.ad6e3fa41acec354f_v2": {
+    "package": "org.chromium.webapk.ad6e3fa41acec354f_v2",
+    "path": "/data/app/~~ETsXDDCOwZ8WXIuz9z17lg==/org.chromium.webapk.ad6e3fa41acec354f_v2-7mnFDx-lGBl-naEG8eCQZQ==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.google.android.apps.carrier.carrierwifi": {
+    "package": "com.google.android.apps.carrier.carrierwifi",
+    "path": "/data/app/~~k3v_HPgBHY5Blgps0q7ucQ==/com.google.android.apps.carrier.carrierwifi-0Yfrq7GJ8Ylh2U9TebOCCg==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.android.printspooler": {
+    "package": "com.android.printspooler",
+    "path": "/system/app/PrintSpooler/PrintSpooler.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.svc.vlive.home.ytv9x": {
+    "package": "com.svc.vlive.home.ytv9x",
+    "path": "/data/app/~~O2adLbbKi9dt73G2kHeYGQ==/com.svc.vlive.home.ytv9x-z5GLxLgoG_rHaR39A4YicA==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.google.android.gms.location.history": {
+    "package": "com.google.android.gms.location.history",
+    "path": "/product/app/GoogleLocationHistory/GoogleLocationHistory.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.providers.settings.overlay": {
+    "package": "com.android.providers.settings.overlay",
+    "path": "/vendor/overlay/SettingsProviderOverlay.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "android.unisoc.navbar.overlay": {
+    "package": "android.unisoc.navbar.overlay",
+    "path": "/vendor/overlay/unisoc_overlay_core_navbar.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.android.contactkeys": {
+    "package": "com.google.android.contactkeys",
+    "path": "/data/app/~~cgP9g69wRi1hdOdN4d7xEg==/com.google.android.contactkeys-5noLpEAYU0OvlDEOMGGxXg==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.chagee.application": {
+    "package": "com.chagee.application",
+    "path": "/data/app/~~QZk0TYTb43bH3k4h6O97dw==/com.chagee.application-QiWRTEau7iJ_2JtzXbrivA==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.truedevelopersstudio.automatictap.autoclicker": {
+    "package": "com.truedevelopersstudio.automatictap.autoclicker",
+    "path": "/data/app/~~vyQFdpJS9ssi7hhegnBnfg==/com.truedevelopersstudio.automatictap.autoclicker-tQKUTUWRV-toOzjnht-s2g==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "android.auto_generated_rro_product__": {
+    "package": "android.auto_generated_rro_product__",
+    "path": "/product/overlay/framework-res__auto_generated_rro_product.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.android.appsearch.apk": {
+    "package": "com.google.android.appsearch.apk",
+    "path": "/apex/com.android.appsearch/priv-app/com.google.android.appsearch.apk@373041100/com.google.android.appsearch.apk.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.ai.edge.gallery": {
+    "package": "com.google.ai.edge.gallery",
+    "path": "/data/app/~~Xuu9GfuBI_GRJomkn3faRA==/com.google.ai.edge.gallery-5UwxRby_nk6ISrfv75vEOA==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "android.unisoc.core.pinner_service.overlay": {
+    "package": "android.unisoc.core.pinner_service.overlay",
+    "path": "/vendor/overlay/unisoc_overlay_core_pinner_service.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.android.safetycenter.resources": {
+    "package": "com.google.android.safetycenter.resources",
+    "path": "/apex/com.android.permission/priv-app/GoogleSafetyCenterResources@373041740/GoogleSafetyCenterResources.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.android.connectivity.resources": {
+    "package": "com.google.android.connectivity.resources",
+    "path": "/apex/com.android.tethering/priv-app/ServiceConnectivityResourcesGoogle@373041100/ServiceConnectivityResourcesGoogle.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.android.webview": {
+    "package": "com.google.android.webview",
+    "path": "/data/app/~~rOGsKqMfFGGkymGud6evaA==/com.google.android.webview-01wB4TzvCjCod_3pfd3LpA==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "org.torproject.torbrowser": {
+    "package": "org.torproject.torbrowser",
+    "path": "/data/app/~~h9KmjtNP5knTMllrjJ4taQ==/org.torproject.torbrowser-XxJV09YE5-u2DgbpyE1cJA==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.android.providers.telephony": {
+    "package": "com.android.providers.telephony",
+    "path": "/system/priv-app/TelephonyProvider/TelephonyProvider.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.wifi.resources.uni_marlin3": {
+    "package": "com.android.wifi.resources.uni_marlin3",
+    "path": "/vendor/overlay/AospWifiOverlay_Marlin3.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.android.apps.turbo": {
+    "package": "com.google.android.apps.turbo",
+    "path": "/product/priv-app/Turbo/Turbo.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.internal.systemui.navbar.gestural_wide_back": {
+    "package": "com.android.internal.systemui.navbar.gestural_wide_back",
+    "path": "/product/overlay/NavigationBarModeGesturalWideBack/NavigationBarModeGesturalOverlayWideBack.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.android.documentsui": {
+    "package": "com.google.android.documentsui",
+    "path": "/data/app/~~2AK5sg7s6vH0J5r83l0qZQ==/com.google.android.documentsui-VK50OlyDCjJDECeE56mpLQ==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.android.providers.blockednumber": {
+    "package": "com.android.providers.blockednumber",
+    "path": "/system/priv-app/BlockedNumberProvider/BlockedNumberProvider.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.android.apps.docs": {
+    "package": "com.google.android.apps.docs",
+    "path": "/data/app/~~OgyH0qgCK942kU-sdwXE3g==/com.google.android.apps.docs-3HTJ5X0mFmz8f-nzqIjqMA==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.android.wallpaperbackup": {
+    "package": "com.android.wallpaperbackup",
+    "path": "/system/app/WallpaperBackup/WallpaperBackup.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.bitkeep.wallet": {
+    "package": "com.bitkeep.wallet",
+    "path": "/data/app/~~gglbryGVhN9yrgqLx55tKg==/com.bitkeep.wallet-TWPFFRwM-OvoBmQEReJt3g==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.android.calllogbackup": {
+    "package": "com.android.calllogbackup",
+    "path": "/system/priv-app/CallLogBackup/CallLogBackup.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.android.tts": {
+    "package": "com.google.android.tts",
+    "path": "/data/app/~~u6-tK5t3VrIGxXCFnGk5ew==/com.google.android.tts--4XOGTRYqGUG79xNYjcyNQ==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.sprd.engineermode": {
+    "package": "com.sprd.engineermode",
+    "path": "/vendor/app/EngineerMode/EngineerMode.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.stremio.one": {
+    "package": "com.stremio.one",
+    "path": "/data/app/~~qSDvl3osfQe08_ifOd6VYQ==/com.stremio.one-IEpxiipmZxyFjLC80MS62w==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.google.android.apps.safetyhub": {
+    "package": "com.google.android.apps.safetyhub",
+    "path": "/data/app/~~dj8onphw8PIGYGnZU1Lr7g==/com.google.android.apps.safetyhub-Evlu7UsvW3RK04S4OpHUFQ==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.unisoc": {
+    "package": "com.unisoc",
+    "path": "/system_ext/framework/unisoc-res.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.android.calculator": {
+    "package": "com.google.android.calculator",
+    "path": "/data/app/~~IFXBtM2TgbH2ewkKYMTs_g==/com.google.android.calculator-SlFm1eJhsSwGjRb7XTkY8Q==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "app.backpack.mobile": {
+    "package": "app.backpack.mobile",
+    "path": "/data/app/~~F-7AD9fYwnMRkHm8y2K06A==/app.backpack.mobile-569CpVyhsQuv0P368_yHKw==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.tencent.soter.soterserver": {
+    "package": "com.tencent.soter.soterserver",
+    "path": "/system_ext/app/SoterService/SoterService.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.android.gms": {
+    "package": "com.google.android.gms",
+    "path": "/data/app/~~lBeN9EyDjkmzi_izCs-SJg==/com.google.android.gms-mWKGIQQpeRiG-7eo39qjLw==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.google.ambient.streaming": {
+    "package": "com.google.ambient.streaming",
+    "path": "/data/app/~~rY_vVXUXLH9t4RTX6xwL1A==/com.google.ambient.streaming-_rKHobnG2W_2yoEmfVj_rw==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.google.android.health.connect.backuprestore": {
+    "package": "com.google.android.health.connect.backuprestore",
+    "path": "/apex/com.android.healthfitness/app/HealthConnectBackupRestoreGoogle@373041100/HealthConnectBackupRestoreGoogle.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "ai.x.grok": {
+    "package": "ai.x.grok",
+    "path": "/data/app/~~jDPunrruD34QyoEIleAXxA==/ai.x.grok-gSAixWp4VL5rz07Abf0ZXA==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.google.android.apps.healthdata": {
+    "package": "com.google.android.apps.healthdata",
+    "path": "/data/app/~~T-IrPXeDX0g3fdSFxoCVxA==/com.google.android.apps.healthdata-XmkJeRkCpWywDL8XCMcZAQ==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.yft.miniscreen": {
+    "package": "com.yft.miniscreen",
+    "path": "/system/app/YftMiniScreen/YftMiniScreen.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.wallpaper": {
+    "package": "com.android.wallpaper",
+    "path": "/system_ext/priv-app/ThemePicker/ThemePicker.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.android.ext.services": {
+    "package": "com.google.android.ext.services",
+    "path": "/apex/com.android.extservices/priv-app/GoogleExtServices@373040040/GoogleExtServices.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.android.calendar": {
+    "package": "com.google.android.calendar",
+    "path": "/data/app/~~ej6_eljV0DzDZMCVBoCK1A==/com.google.android.calendar-bZysJzDXmxPwL-7J_xFQUg==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.android.phone": {
+    "package": "com.android.phone",
+    "path": "/system/priv-app/TeleService/TeleService.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "org.jellyfin.mobile": {
+    "package": "org.jellyfin.mobile",
+    "path": "/data/app/~~WzUax24oJsdKhVVldG0Jaw==/org.jellyfin.mobile-Kj_7MHEK9BcIsXeZAZ_uPA==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.android.imsserviceentitlement": {
+    "package": "com.android.imsserviceentitlement",
+    "path": "/product/priv-app/ImsServiceEntitlement/ImsServiceEntitlement.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.android.gmsintegration": {
+    "package": "com.google.android.gmsintegration",
+    "path": "/system_ext/app/GmsSampleIntegration_unisoc/GmsSampleIntegration_unisoc.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.android.photopicker": {
+    "package": "com.google.android.photopicker",
+    "path": "/apex/com.android.mediaprovider/priv-app/PhotopickerGoogle@373041160/PhotopickerGoogle.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.android.projection.gearhead": {
+    "package": "com.google.android.projection.gearhead",
+    "path": "/data/app/~~oMdyOXscaK5EYK1e5pePyw==/com.google.android.projection.gearhead-FajzWGQJScoY5igKQu-TvA==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.android.wifi.resources.uni_marlin3.mainline": {
+    "package": "com.android.wifi.resources.uni_marlin3.mainline",
+    "path": "/vendor/overlay/AospWifiOverlay_Marlin3_Mainline.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.android.hotspot2.osulogin": {
+    "package": "com.google.android.hotspot2.osulogin",
+    "path": "/apex/com.android.wifi/app/OsuLoginGoogle@373041260/OsuLoginGoogle.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.chromeremotedesktop": {
+    "package": "com.google.chromeremotedesktop",
+    "path": "/data/app/~~LLrEQS2W5TOid1RTSFa1oA==/com.google.chromeremotedesktop-ITBbL13japQGrIDYXfWLwA==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.google.android.setupwizard": {
+    "package": "com.google.android.setupwizard",
+    "path": "/system_ext/priv-app/SetupWizard/SetupWizard.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.companiondevicemanager": {
+    "package": "com.android.companiondevicemanager",
+    "path": "/system/app/CompanionDeviceManager/CompanionDeviceManager.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.networkstack.tethering.overlay": {
+    "package": "com.android.networkstack.tethering.overlay",
+    "path": "/vendor/overlay/TetheringConfigOverlayGsi.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "android.unisoc.phone_core.overlay": {
+    "package": "android.unisoc.phone_core.overlay",
+    "path": "/vendor/overlay/unisoc_overlay_phone_core.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "android.overlay.bluetoothres": {
+    "package": "android.overlay.bluetoothres",
+    "path": "/vendor/overlay/AospBtOverlay/AospBtOverlay.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.ton_keeper": {
+    "package": "com.ton_keeper",
+    "path": "/system/preloadapp/tonkeeper/tonkeeper.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "us.zoom.videomeetings": {
+    "package": "us.zoom.videomeetings",
+    "path": "null",
+    "original_state": "default",
+    "is_system": false
+  },
+  "com.azure.authenticator": {
+    "package": "com.azure.authenticator",
+    "path": "/data/app/~~sddVY-Zq0wPiZ0jvwfufcg==/com.azure.authenticator-po06EKd6pyTK1QyVs0OMFw==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "org.ifaa.aidl.manager": {
+    "package": "org.ifaa.aidl.manager",
+    "path": "/system_ext/app/IfaaManagerService/IfaaManagerService.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "app.revanced.android.apps.youtube.music": {
+    "package": "app.revanced.android.apps.youtube.music",
+    "path": "/data/app/~~sUcezizhqlZL825ey7fhIw==/app.revanced.android.apps.youtube.music-qmN7wJmHeLqJsPePIIkFKg==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.android.intentresolver": {
+    "package": "com.android.intentresolver",
+    "path": "/system/priv-app/IntentResolver/IntentResolver.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.musicfx": {
+    "package": "com.android.musicfx",
+    "path": "/system/priv-app/MusicFX/MusicFX.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.mtp": {
+    "package": "com.android.mtp",
+    "path": "/system/priv-app/MtpService/MtpService.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.discord": {
+    "package": "com.discord",
+    "path": "/data/app/~~6UrW3-XCMuaJkfx0xMc_VA==/com.discord-wqM9DqjjlBGrDRvEBNNfIg==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.android.providers.calendar": {
+    "package": "com.android.providers.calendar",
+    "path": "/system/priv-app/CalendarProvider/CalendarProvider.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.bluetoothmidiservice": {
+    "package": "com.android.bluetoothmidiservice",
+    "path": "/system/app/BluetoothMidiService/BluetoothMidiService.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.android.gms.supervision": {
+    "package": "com.google.android.gms.supervision",
+    "path": "/product/priv-app/FamilyLinkParentalControls/FamilyLinkParentalControls.apk",
+    "original_state": "disabled",
+    "is_system": true
+  },
+  "com.google.android.ondevicepersonalization.services": {
+    "package": "com.google.android.ondevicepersonalization.services",
+    "path": "/apex/com.android.ondevicepersonalization/priv-app/OnDevicePersonalizationGoogle@373040040/OnDevicePersonalizationGoogle.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.unisoc.android.go.networkstack.overlay": {
+    "package": "com.unisoc.android.go.networkstack.overlay",
+    "path": "/product/overlay/UnisocNetworkStackOverlayGo.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.smspush": {
+    "package": "com.android.smspush",
+    "path": "/system_ext/app/WAPPushManager/WAPPushManager.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.android.adservices.api": {
+    "package": "com.google.android.adservices.api",
+    "path": "/apex/com.android.adservices/priv-app/AdServicesApkGoogle@373040040/AdServicesApkGoogle.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "notion.id": {
+    "package": "notion.id",
+    "path": "/data/app/~~moFrIZzGRogUW6A5XRoM0A==/notion.id-VpWDOji2mM4Vc7N1JbmkOQ==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.google.android.uwb.resources": {
+    "package": "com.google.android.uwb.resources",
+    "path": "/apex/com.android.uwb/priv-app/ServiceUwbResourcesGoogle@373041200/ServiceUwbResourcesGoogle.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.unisoc.tui": {
+    "package": "com.unisoc.tui",
+    "path": "/system_ext/app/TuiAuxiService/TuiAuxiService.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.unisoc.power_qogirl6.overlay": {
+    "package": "com.unisoc.power_qogirl6.overlay",
+    "path": "/vendor/overlay/unisoc_res_overlay_power_qogirl6.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.spk.universal": {
+    "package": "com.spk.universal",
+    "path": "/system/app/Universal/Universal.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "org.telegram.messenger": {
+    "package": "org.telegram.messenger",
+    "path": "/data/app/~~u2I46kY0h5uPQDp2rKLQhQ==/org.telegram.messenger-j5I-WOkwCQfnKfzhSkNbdA==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.google.android.networkstack": {
+    "package": "com.google.android.networkstack",
+    "path": "/data/app/~~OO6XbvlSeYBlhccvqrsWjg==/com.google.android.networkstack-aJpg6woESKuRwRN7Wgntug==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.android.sharedstoragebackup": {
+    "package": "com.android.sharedstoragebackup",
+    "path": "/system/priv-app/SharedStorageBackup/SharedStorageBackup.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.internal.display.cutout.emulation.waterfall": {
+    "package": "com.android.internal.display.cutout.emulation.waterfall",
+    "path": "/product/overlay/DisplayCutoutEmulationWaterfall/DisplayCutoutEmulationWaterfallOverlay.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.sprd.validationtools": {
+    "package": "com.sprd.validationtools",
+    "path": "/system_ext/app/ValidationTools/ValidationTools.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.scopely.monopolygo": {
+    "package": "com.scopely.monopolygo",
+    "path": "/data/app/~~ASr0d0ymf7Dm_WoIKuUWEA==/com.scopely.monopolygo-WYWgnfnOBV7Tj4mFwSEQrg==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.brave.browser": {
+    "package": "com.brave.browser",
+    "path": "/data/app/~~2etOdbxTy4c71DXZGhdlcA==/com.brave.browser-kfE0zJbIwDAJ0Gs2PIgpzA==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.google.android.apps.walletnfcrel": {
+    "package": "com.google.android.apps.walletnfcrel",
+    "path": "/data/app/~~N0OO5GELSLwldNh2qxIjpg==/com.google.android.apps.walletnfcrel--3IHSvYBVrMtREA59Z2r2g==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.sprd.android.networkstack.overlay": {
+    "package": "com.sprd.android.networkstack.overlay",
+    "path": "/product/overlay/UnisocNetworkStackOverlayGsi.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.localtransport": {
+    "package": "com.android.localtransport",
+    "path": "/system/priv-app/LocalTransport/LocalTransport.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.twitter.android": {
+    "package": "com.twitter.android",
+    "path": "/data/app/~~gqvbTiSSbKYzDekyNpMJxA==/com.twitter.android-JY-DRh_0pdNiU5BmzWPw0w==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.android.inputdevices": {
+    "package": "com.android.inputdevices",
+    "path": "/system/priv-app/InputDevices/InputDevices.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "ch.protonvpn.android": {
+    "package": "ch.protonvpn.android",
+    "path": "/data/app/~~g_jUrBORaocncK4wRP9MXw==/ch.protonvpn.android-KRveyopTJ_L17kg6EnBubA==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.google.android.overlay.gmsconfig.gsa": {
+    "package": "com.google.android.overlay.gmsconfig.gsa",
+    "path": "/product/overlay/GmsConfigOverlayGSA.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.cameraextensions": {
+    "package": "com.android.cameraextensions",
+    "path": "/system/app/CameraExtensionsProxy/CameraExtensionsProxy.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.phone.auto_generated_rro_product__": {
+    "package": "com.android.phone.auto_generated_rro_product__",
+    "path": "/product/overlay/TeleService__auto_generated_rro_product.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.providers.downloads": {
+    "package": "com.android.providers.downloads",
+    "path": "/system/priv-app/DownloadProvider/DownloadProvider.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.wallpapercropper": {
+    "package": "com.android.wallpapercropper",
+    "path": "/system_ext/priv-app/WallpaperCropper/WallpaperCropper.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.android.wifi.resources": {
+    "package": "com.google.android.wifi.resources",
+    "path": "/apex/com.android.wifi/priv-app/ServiceWifiResourcesGoogle@373041260/ServiceWifiResourcesGoogle.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.ons": {
+    "package": "com.android.ons",
+    "path": "/system/priv-app/ONS/ONS.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.pedometer": {
+    "package": "com.android.pedometer",
+    "path": "/system/app/Pedometer/Pedometer.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.proxyhandler": {
+    "package": "com.android.proxyhandler",
+    "path": "/system/priv-app/ProxyHandler/ProxyHandler.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.global.foodpanda.android": {
+    "package": "com.global.foodpanda.android",
+    "path": "/data/app/~~LBr94OXb1Cw-7qpNRSi6qw==/com.global.foodpanda.android-xahQjQICOtsXjHFTDLTntA==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.shopback.app": {
+    "package": "com.shopback.app",
+    "path": "/data/app/~~704RskTIfZWe3ZmcW62WtQ==/com.shopback.app-IxLBv6ajnXrFQM9Ce2XTHQ==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.pixelstackstudios.pongz": {
+    "package": "com.pixelstackstudios.pongz",
+    "path": "/data/app/~~UVNWnq_ldPCRv05r4AH1yg==/com.pixelstackstudios.pongz-4RNWXRgZDKSzCaMdHkphqg==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.google.android.onetimeinitializer": {
+    "package": "com.google.android.onetimeinitializer",
+    "path": "/product/priv-app/GoogleOneTimeInitializer/GoogleOneTimeInitializer.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.android.signature": {
+    "package": "com.google.android.signature",
+    "path": "/apex/com.android.mediaprovider/priv-app/SignatureGoogle@373041160/SignatureGoogle.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.mms.service": {
+    "package": "com.android.mms.service",
+    "path": "/system/priv-app/MmsService/MmsService.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.android.overlay.gmsconfig.geotz": {
+    "package": "com.google.android.overlay.gmsconfig.geotz",
+    "path": "/product/overlay/GmsConfigOverlayGeotz.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "io.metamask": {
+    "package": "io.metamask",
+    "path": "/data/app/~~kz22ruT2bEMQAjcXxyjlZg==/io.metamask-Q4tqCCFPT-xqiEl0yFzrpw==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.android.networkstack.overlay": {
+    "package": "com.android.networkstack.overlay",
+    "path": "/vendor/overlay/NetworkStackOverlayGsi.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.egg": {
+    "package": "com.android.egg",
+    "path": "/system/app/EasterEgg/EasterEgg.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.android.apps.youtube.music": {
+    "package": "com.google.android.apps.youtube.music",
+    "path": "/data/app/~~2sSGzPiT-vGL3p9K41eRZg==/com.google.android.apps.youtube.music-8Oxd0TYJsahwQAnJNYv3qA==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.google.android.overlay.modules.ext.services": {
+    "package": "com.google.android.overlay.modules.ext.services",
+    "path": "/product/overlay/GoogleExtServicesConfigOverlay.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.sprd.camta": {
+    "package": "com.sprd.camta",
+    "path": "/system_ext/app/CamTa/CamTa.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.spreadtrum.proxy.nfwlocation": {
+    "package": "com.spreadtrum.proxy.nfwlocation",
+    "path": "/vendor/app/ProxyNFwLocation/ProxyNFwLocation.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.delphicoder.flud": {
+    "package": "com.delphicoder.flud",
+    "path": "/data/app/~~T_lBFPfDoY96qFqz9bgUuQ==/com.delphicoder.flud-BAKyaULyPtIXirggq5hbiw==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.mediatek.batterywarning": {
+    "package": "com.mediatek.batterywarning",
+    "path": "/system/priv-app/BatteryWarning/BatteryWarning.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.dexscreener": {
+    "package": "com.dexscreener",
+    "path": "/data/app/~~FoU1kLwi1kSkPXeJnfoHKg==/com.dexscreener-hrWJ-o9czi9LO4vI92fTxg==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.android.internal.display.cutout.emulation.hole": {
+    "package": "com.android.internal.display.cutout.emulation.hole",
+    "path": "/product/overlay/DisplayCutoutEmulationHole/DisplayCutoutEmulationHoleOverlay.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.android.apps.adm": {
+    "package": "com.google.android.apps.adm",
+    "path": "/data/app/~~U_iycQfZdfcPUJmlqOxfDg==/com.google.android.apps.adm-qXb0mWhmXDIl_DVHblieKA==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.android.internal.display.cutout.emulation.double": {
+    "package": "com.android.internal.display.cutout.emulation.double",
+    "path": "/product/overlay/DisplayCutoutEmulationDouble/DisplayCutoutEmulationDoubleOverlay.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "money.moonshot.app": {
+    "package": "money.moonshot.app",
+    "path": "/data/app/~~_9ZVSxtqqOaR5tu6iWnLzA==/money.moonshot.app-nHmFZ2rNcVUL6aAMgeprWw==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.android.pacprocessor": {
+    "package": "com.android.pacprocessor",
+    "path": "/system/app/PacProcessor/PacProcessor.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.ethermail.ethermail_android": {
+    "package": "com.ethermail.ethermail_android",
+    "path": "/data/app/~~woBuv2TPffj3lwkk-Aq3aw==/com.ethermail.ethermail_android-QsWlyxDhPl3T6sh0R7VVlA==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.hxywizard": {
+    "package": "com.hxywizard",
+    "path": "/system/app/Hxywizard/Hxywizard.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.android.verifier": {
+    "package": "com.google.android.verifier",
+    "path": "/data/app/~~Hl09OJ7Ri8bgkVXm8nSeYw==/com.google.android.verifier-_nr0B6dfrLuT4mE2jC5mIw==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "push.lite.avtech.com": {
+    "package": "push.lite.avtech.com",
+    "path": "/data/app/~~C519Zg3M7c-Rn50R9fIi8Q==/push.lite.avtech.com-uQcmJF9pXWtjMI8NHgJ-7Q==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.google.android.sdksandbox": {
+    "package": "com.google.android.sdksandbox",
+    "path": "/apex/com.android.adservices/app/SdkSandboxGoogle@373040040/SdkSandboxGoogle.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.managedprovisioning": {
+    "package": "com.android.managedprovisioning",
+    "path": "/system/priv-app/ManagedProvisioning/ManagedProvisioning.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.shell": {
+    "package": "com.android.shell",
+    "path": "/system/priv-app/Shell/Shell.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "sleep.monitor.sleep.tracker.app": {
+    "package": "sleep.monitor.sleep.tracker.app",
+    "path": "/data/app/~~Jhr-d2pkLL2kV_gqxcTygw==/sleep.monitor.sleep.tracker.app-3lepJ6OBaj3sGoXyPW7_xw==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.instagram.android": {
+    "package": "com.instagram.android",
+    "path": "/data/app/~~5wRlqNG8gCCvIyvIH-iooQ==/com.instagram.android-87Nz_JHiPfea_j3VS0_syg==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.unisoc.gesturerecognition": {
+    "package": "com.unisoc.gesturerecognition",
+    "path": "/system_ext/app/GestureRecognition/GestureRecognition.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "org.fdroid.fdroid": {
+    "package": "org.fdroid.fdroid",
+    "path": "/data/app/~~QogH48wYuGe5oOmDXd4uqQ==/org.fdroid.fdroid-7A9QUStQdGyGtsw6TJkz5Q==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.google.android.feedback": {
+    "package": "com.google.android.feedback",
+    "path": "/system_ext/priv-app/GoogleFeedback/GoogleFeedback.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.android.ext.shared": {
+    "package": "com.google.android.ext.shared",
+    "path": "/system/app/GoogleExtShared/GoogleExtShared.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.providers.partnerbookmarks": {
+    "package": "com.android.providers.partnerbookmarks",
+    "path": "/system/app/PartnerBookmarksProvider/PartnerBookmarksProvider.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.cts.priv.ctsshim": {
+    "package": "com.android.cts.priv.ctsshim",
+    "path": "/apex/com.android.apex.cts.shim/priv-app/CtsShimPriv@MASTER/CtsShimPriv.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.theme.font.notoserifsource": {
+    "package": "com.android.theme.font.notoserifsource",
+    "path": "/product/overlay/FontNotoSerifSource/FontNotoSerifSourceOverlay.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.android.overlay.modules.permissioncontroller.forframework": {
+    "package": "com.google.android.overlay.modules.permissioncontroller.forframework",
+    "path": "/product/overlay/GooglePermissionControllerFrameworkOverlay.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.android.overlay.gmsconfig.asi": {
+    "package": "com.google.android.overlay.gmsconfig.asi",
+    "path": "/product/overlay/GmsConfigOverlayASI.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "android.unisoc.cpu_T616.overlay": {
+    "package": "android.unisoc.cpu_T616.overlay",
+    "path": "/vendor/overlay/unisoc_overlay_power_cpuT616.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.role.notes.enabled": {
+    "package": "com.android.role.notes.enabled",
+    "path": "/product/overlay/NotesRoleEnabled/NotesRoleEnabledOverlay.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.ss.android.ugc.trill": {
+    "package": "com.ss.android.ugc.trill",
+    "path": "/data/app/~~XvpCNLcF1t8wGNTM19pT6g==/com.ss.android.ugc.trill-7yEQXNP9iLwIzb3pqKo0BA==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.google.android.as.oss": {
+    "package": "com.google.android.as.oss",
+    "path": "/data/app/~~knLbPNglboaMrmvT3kFRhQ==/com.google.android.as.oss-SaD_Qbj_vZZxiwp2aNhUUQ==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.android.overlay.wallpaperconfig": {
+    "package": "com.android.overlay.wallpaperconfig",
+    "path": "/product/overlay/WallpaperOverlay.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.providers.settings": {
+    "package": "com.android.providers.settings",
+    "path": "/system/priv-app/SettingsProvider/SettingsProvider.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.unisoc.enginecore": {
+    "package": "com.unisoc.enginecore",
+    "path": "/system_ext/priv-app/AIEngineService/AIEngineService.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.certinstaller": {
+    "package": "com.android.certinstaller",
+    "path": "/system/app/CertInstaller/CertInstaller.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "sg.gov.mnd.OneService": {
+    "package": "sg.gov.mnd.OneService",
+    "path": "/data/app/~~IUShmVZFNImcgNwu1R2-pg==/sg.gov.mnd.OneService-QwiER0iDQIaun53fmo1bvA==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "android.overlay.framework": {
+    "package": "android.overlay.framework",
+    "path": "/product/overlay/FrameworkResOverlay.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.android.overlay.gmsconfig.deskclock": {
+    "package": "com.google.android.overlay.gmsconfig.deskclock",
+    "path": "/product/overlay/GmsConfigOverlayDeskClockGoogle.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.simappdialog": {
+    "package": "com.android.simappdialog",
+    "path": "/system/app/SimAppDialog/SimAppDialog.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.soundrecorder": {
+    "package": "com.android.soundrecorder",
+    "path": "/system_ext/app/DreamSoundRecorder/DreamSoundRecorder.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.android.apps.paidtasks": {
+    "package": "com.google.android.apps.paidtasks",
+    "path": "/data/app/~~-6zI0kopZqlELl-huq21CQ==/com.google.android.apps.paidtasks-hwMm466GR0Vo6sk7FEasfw==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.google.android.partnersetup": {
+    "package": "com.google.android.partnersetup",
+    "path": "/data/app/~~9yHdvhCZkVsn7ovtM8j6eA==/com.google.android.partnersetup-ZK3Q-P2QLwg504z_P7pIhA==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.android.dynsystem": {
+    "package": "com.android.dynsystem",
+    "path": "/system/priv-app/DynamicSystemInstallationService/DynamicSystemInstallationService.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.settings": {
+    "package": "com.android.settings",
+    "path": "/system_ext/priv-app/Settings/Settings.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.hunters.on.chain.mainnet": {
+    "package": "com.hunters.on.chain.mainnet",
+    "path": "/data/app/~~XA2BGuK-TXnLL-YwX7s5GQ==/com.hunters.on.chain.mainnet-krwQ4vxgbyBKK43NfzDQrw==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.google.android.apps.nbu.files": {
+    "package": "com.google.android.apps.nbu.files",
+    "path": "/data/app/~~xKnNtd7iOBWqC8sXck-fjQ==/com.google.android.apps.nbu.files-lqOgtMcILICdqSr9xp-W_A==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "org.chromium.webapk.aa4d8b98186ee8127_v2": {
+    "package": "org.chromium.webapk.aa4d8b98186ee8127_v2",
+    "path": "/data/app/~~hKHP-Qgpvi30utZQJxQF2w==/org.chromium.webapk.aa4d8b98186ee8127_v2-PDEe7zfb_rZz-KY8V_tTbw==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "proton.android.pass": {
+    "package": "proton.android.pass",
+    "path": "/data/app/~~ODUqiHk2h-zG47dKmOCU6Q==/proton.android.pass-5KEDpjpMAPT_DwhpC27k8Q==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.termux.x11": {
+    "package": "com.termux.x11",
+    "path": "/data/app/~~8iN374MGv2ovwbNspFY1aA==/com.termux.x11-xQop9cp_ytcwKn0FZ4-68w==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.google.android.overlay.modules.modulemetadata.forframework": {
+    "package": "com.google.android.overlay.modules.modulemetadata.forframework",
+    "path": "/product/overlay/ModuleMetadataGoogleOverlay.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.github.libretube": {
+    "package": "com.github.libretube",
+    "path": "/data/app/~~1VcMuqFN9tTkN3g_rbeZAA==/com.github.libretube-D7AsBvV1zyCA0LrzAGp1RA==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "android.unisoc.core.wifi_display.overlay": {
+    "package": "android.unisoc.core.wifi_display.overlay",
+    "path": "/vendor/overlay/unisoc_overlay_core_wifi_display.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "android.unisoc.core.overlay": {
+    "package": "android.unisoc.core.overlay",
+    "path": "/vendor/overlay/unisoc_overlay_core.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "android.unisoc.display_vrr.overlay": {
+    "package": "android.unisoc.display_vrr.overlay",
+    "path": "/vendor/overlay/unisoc_overlay_display_vrr.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.tomoloyalty.yuu": {
+    "package": "com.tomoloyalty.yuu",
+    "path": "/data/app/~~HJ_jV_EfoLBWDbvSxKNngA==/com.tomoloyalty.yuu-5pIkURwCHeJpEojBsfeInQ==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "io.getgrass.www": {
+    "package": "io.getgrass.www",
+    "path": "/data/app/~~kYVLS5L4_JtawMwCJobc3A==/io.getgrass.www-KgFx7qH7Rk54R6id_d6zjw==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.android.unisoc.phone_hac.overlay": {
+    "package": "com.android.unisoc.phone_hac.overlay",
+    "path": "/vendor/overlay/unisoc_overlay_phone_hac.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.tailscale.ipn": {
+    "package": "com.tailscale.ipn",
+    "path": "/data/app/~~JuwxDSmi4V2Tqbl4QAwffw==/com.tailscale.ipn-OQiayoyo6syRFxsO4Z0ebA==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.grabtaxi.passenger": {
+    "package": "com.grabtaxi.passenger",
+    "path": "/data/app/~~MkTGY5JSm_fo16zXkvL_qA==/com.grabtaxi.passenger-KJlFH0vaXc7yF9rkyGE3AA==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.android.internal.systemui.navbar.gestural_narrow_back": {
+    "package": "com.android.internal.systemui.navbar.gestural_narrow_back",
+    "path": "/product/overlay/NavigationBarModeGesturalNarrowBack/NavigationBarModeGesturalOverlayNarrowBack.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.gfk.digitaltrends.android": {
+    "package": "com.gfk.digitaltrends.android",
+    "path": "/data/app/~~W5TSJif_IYBlYqqVcUKXdw==/com.gfk.digitaltrends.android-5vO55dyWM2HpQSoQk8vTmg==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.android.providers.media": {
+    "package": "com.android.providers.media",
+    "path": "/system/priv-app/MediaProviderLegacy/MediaProviderLegacy.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.android.gm": {
+    "package": "com.google.android.gm",
+    "path": "/data/app/~~oOzsu8EhrSW8hFJOk6wfng==/com.google.android.gm-ZODBlTvMCRrnIswLwY2iZQ==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.google.android.gsf": {
+    "package": "com.google.android.gsf",
+    "path": "/system_ext/priv-app/GoogleServicesFramework/GoogleServicesFramework.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.android.marvin.talkback": {
+    "package": "com.google.android.marvin.talkback",
+    "path": "/data/app/~~FCAtO1CbXgxkmMWo40Ew9g==/com.google.android.marvin.talkback-BcMyjLrF-n4sidneqgHIkg==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.hxy.hxylivewallpaperthree": {
+    "package": "com.hxy.hxylivewallpaperthree",
+    "path": "/system/app/HxyLiveWallpaperThree/HxyLiveWallpaperThree.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.abdurazaaqmohammed.AntiSplit": {
+    "package": "com.abdurazaaqmohammed.AntiSplit",
+    "path": "/data/app/~~qLcwjCsdSV1_1tWQ2j_wRw==/com.abdurazaaqmohammed.AntiSplit-0vFTm8g4va-11q1-BtKe6w==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.google.android.federatedcompute": {
+    "package": "com.google.android.federatedcompute",
+    "path": "/apex/com.android.ondevicepersonalization/app/FederatedComputeGoogle@373040040/FederatedComputeGoogle.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.bluetooth": {
+    "package": "com.android.bluetooth",
+    "path": "/apex/com.android.btservices/app/Bluetooth@UP1A.231005.007/Bluetooth.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.chrome": {
+    "package": "com.android.chrome",
+    "path": "/data/app/~~7jKgs3q3x1MzRje5X37exw==/com.android.chrome-zOWsVWme4VxekkKc0ClHcQ==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.sprd.logmanager": {
+    "package": "com.sprd.logmanager",
+    "path": "/vendor/app/LogManager/LogManager.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.android.as": {
+    "package": "com.google.android.as",
+    "path": "/data/app/~~yvZUhsg0LcgJS-eAb8RE8g==/com.google.android.as-qDW-S1B_Ty3FFVoS7LHpZw==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.google.android.configupdater": {
+    "package": "com.google.android.configupdater",
+    "path": "/product/priv-app/ConfigUpdater/ConfigUpdater.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.android.dialer": {
+    "package": "com.google.android.dialer",
+    "path": "/data/app/~~3W0mkil79eTWsXiFE3E4WA==/com.google.android.dialer-dxn7I7ECyrDYUqZ5KFEDqA==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.android.internal.systemui.navbar.gestural_extra_wide_back": {
+    "package": "com.android.internal.systemui.navbar.gestural_extra_wide_back",
+    "path": "/product/overlay/NavigationBarModeGesturalExtraWideBack/NavigationBarModeGesturalOverlayExtraWideBack.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.se": {
+    "package": "com.android.se",
+    "path": "/system/app/SecureElement/SecureElement.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.carrierdefaultapp": {
+    "package": "com.android.carrierdefaultapp",
+    "path": "/system/app/CarrierDefaultApp/CarrierDefaultApp.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.android.printservice.recommendation": {
+    "package": "com.google.android.printservice.recommendation",
+    "path": "/system/app/GooglePrintRecommendationService/GooglePrintRecommendationService.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.unisoc.silent.reboot": {
+    "package": "com.unisoc.silent.reboot",
+    "path": "/system_ext/priv-app/UniSilentReboot/UniSilentReboot.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.reddit.frontpage": {
+    "package": "com.reddit.frontpage",
+    "path": "/data/app/~~EpM0-wcJuJz7NLyYh7Gudg==/com.reddit.frontpage-vZLm2TbRp3_Z4qGlTU6HdQ==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.utorrent.client": {
+    "package": "com.utorrent.client",
+    "path": "/data/app/~~boqUAjchSQ7W2k0Dp9V4BA==/com.utorrent.client-6TfxRSVFB3H2KgiMhrnDVA==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.google.android.apps.googleassistant": {
+    "package": "com.google.android.apps.googleassistant",
+    "path": "/data/app/~~bGP8vhozjAPkXyRO9dK0JA==/com.google.android.apps.googleassistant-so1YJlZoLjbNaWCG_UHwhg==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.google.android.apps.wellbeing": {
+    "package": "com.google.android.apps.wellbeing",
+    "path": "/data/app/~~fKcwzfrDgG0EKurqUMs0RQ==/com.google.android.apps.wellbeing-gA0IMGdkPjZ4Hbt4IKEXrg==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "android.unisoc.display_doze.overlay": {
+    "package": "android.unisoc.display_doze.overlay",
+    "path": "/vendor/overlay/unisoc_overlay_display_doze.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.mi.android.globalFileexplorer": {
+    "package": "com.mi.android.globalFileexplorer",
+    "path": "/data/app/~~J4ETrCzxADGi3o-l9ODNaA==/com.mi.android.globalFileexplorer-VvfiQh8MTAAwjfDOpsybEg==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.android.backupconfirm": {
+    "package": "com.android.backupconfirm",
+    "path": "/system/priv-app/BackupRestoreConfirmation/BackupRestoreConfirmation.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "app.revanced.android.youtube": {
+    "package": "app.revanced.android.youtube",
+    "path": "/data/app/~~zuR7l9kMFiBv-tldI19C7Q==/app.revanced.android.youtube-e1AhqPZoRryGwOlQ9j677A==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.android.wifi.uniresources.marlin3": {
+    "package": "com.android.wifi.uniresources.marlin3",
+    "path": "/vendor/overlay/UniWifiOverlay_Marlin3/UniWifiOverlay_Marlin3.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.gallery3d": {
+    "package": "com.android.gallery3d",
+    "path": "/system_ext/app/USCPhotoEdit/USCPhotoEdit.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.location.fused": {
+    "package": "com.android.location.fused",
+    "path": "/system/priv-app/FusedLocation/FusedLocation.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.nielsen.consumerpanel": {
+    "package": "com.nielsen.consumerpanel",
+    "path": "/data/app/~~IY6P2EKb2p7O7w5nm8BExQ==/com.nielsen.consumerpanel-KocJG5VztALPiCmxuYMd0Q==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.google.android.apps.messaging": {
+    "package": "com.google.android.apps.messaging",
+    "path": "/data/app/~~nWB_egPAV8300WX-TdCxXg==/com.google.android.apps.messaging-t95QvdVzwu8y2anpYPlkTg==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.android.settings.auto_generated_rro_product__": {
+    "package": "com.android.settings.auto_generated_rro_product__",
+    "path": "/product/overlay/Settings__auto_generated_rro_product.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.android.apps.maps": {
+    "package": "com.google.android.apps.maps",
+    "path": "/data/app/~~KOMpXwDOUV6YTSdyb9GSeQ==/com.google.android.apps.maps-740Pl7FHRfm6QKLUIqgi3g==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "android.overlay.multiuser": {
+    "package": "android.overlay.multiuser",
+    "path": "/vendor/overlay/MultiuserOverlays.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.sprd.omacp": {
+    "package": "com.sprd.omacp",
+    "path": "/system_ext/priv-app/Omacp/Omacp.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.android.apps.photos": {
+    "package": "com.google.android.apps.photos",
+    "path": "/data/app/~~1WDq5_i4Ru4A97gItTxX0A==/com.google.android.apps.photos-l9DQXtnGcPXqUmX_2PJpeA==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.sprd.uasetting": {
+    "package": "com.sprd.uasetting",
+    "path": "/vendor/app/UASetting/UASetting.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.android.networkstack.tethering.overlay": {
+    "package": "com.google.android.networkstack.tethering.overlay",
+    "path": "/vendor/overlay/TetheringConfigOverlay.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.systemui.auto_generated_rro_product__": {
+    "package": "com.android.systemui.auto_generated_rro_product__",
+    "path": "/product/overlay/SystemUI__auto_generated_rro_product.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.android.networkstack.tethering": {
+    "package": "com.google.android.networkstack.tethering",
+    "path": "/apex/com.android.tethering/priv-app/TetheringGoogle@373041100/TetheringGoogle.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.android.safetycore": {
+    "package": "com.google.android.safetycore",
+    "path": "/data/app/~~7LrwWzPOBPbp9aMLYq1-9g==/com.google.android.safetycore-4HLgeCZ3w8sMKjKLNRW48w==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.android.htmlviewer": {
+    "package": "com.android.htmlviewer",
+    "path": "/system/app/HTMLViewer/HTMLViewer.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.phone.injection": {
+    "package": "com.android.phone.injection",
+    "path": "/product/overlay/TeleServiceOverlay.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.server.telecom": {
+    "package": "com.android.server.telecom",
+    "path": "/system/priv-app/Telecom/Telecom.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.spreadtrum.sgps": {
+    "package": "com.spreadtrum.sgps",
+    "path": "/vendor/app/SGPS/SGPS.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.cellbroadcastreceiver": {
+    "package": "com.android.cellbroadcastreceiver",
+    "path": "/system/priv-app/CellBroadcastLegacyApp/CellBroadcastLegacyApp.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.android.providers.media.module": {
+    "package": "com.google.android.providers.media.module",
+    "path": "/apex/com.android.mediaprovider/priv-app/MediaProviderGoogle@373041160/MediaProviderGoogle.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.sprd.providers.photos": {
+    "package": "com.sprd.providers.photos",
+    "path": "/system_ext/app/USCPhotosProvider/USCPhotosProvider.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.android.healthconnect.controller": {
+    "package": "com.google.android.healthconnect.controller",
+    "path": "/apex/com.android.healthfitness/priv-app/HealthConnectControllerGoogle@373041100/HealthConnectControllerGoogle.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.providers.settings.auto_generated_rro_product__": {
+    "package": "com.android.providers.settings.auto_generated_rro_product__",
+    "path": "/product/overlay/SettingsProvider__auto_generated_rro_product.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.sprd.linkturbo": {
+    "package": "com.sprd.linkturbo",
+    "path": "/system_ext/app/LinkTurbo/LinkTurbo.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.shopee.sg": {
+    "package": "com.shopee.sg",
+    "path": "/data/app/~~CTmhU9A7shTWBg5BFkye7Q==/com.shopee.sg-eiJgcW4mqOV9xq9kQHB_8Q==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.spotify.music": {
+    "package": "com.spotify.music",
+    "path": "/data/app/~~CWGmAzFxEnpkq2_-zS9WkQ==/com.spotify.music-2OqZb-pcJn2z3h22qBkpJQ==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.android.internal.systemui.navbar.gestural": {
+    "package": "com.android.internal.systemui.navbar.gestural",
+    "path": "/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.unisoc.color_display.overlay": {
+    "package": "com.unisoc.color_display.overlay",
+    "path": "/vendor/overlay/unisoc_res_overlay_colordisplay.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "android.unisoc.power_qogirl6.overlay": {
+    "package": "android.unisoc.power_qogirl6.overlay",
+    "path": "/vendor/overlay/unisoc_overlay_power_qogirl6.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.android.deskclock": {
+    "package": "com.google.android.deskclock",
+    "path": "/data/app/~~EYXisDh1vYdiPZHSfw6rXA==/com.google.android.deskclock-iVTP2wwOB8UnjINbme5GFw==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.max.heymax": {
+    "package": "com.max.heymax",
+    "path": "/data/app/~~QEFLY8taH4zWe6zR6L-2ew==/com.max.heymax-EsM_XRyP6UihSeqsOqT0-w==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.android.secretcode": {
+    "package": "com.android.secretcode",
+    "path": "/system/app/SecretCode/SecretCode.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.android.overlay.gmsconfig.common": {
+    "package": "com.google.android.overlay.gmsconfig.common",
+    "path": "/product/overlay/GmsConfigOverlayCommon.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.android.overlay.modules.captiveportallogin.forframework": {
+    "package": "com.google.android.overlay.modules.captiveportallogin.forframework",
+    "path": "/product/overlay/CaptivePortalLoginFrameworkOverlay.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.providers.contacts": {
+    "package": "com.android.providers.contacts",
+    "path": "/system_ext/priv-app/SprdContactsProvider/SprdContactsProvider.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.android.apps.bard": {
+    "package": "com.google.android.apps.bard",
+    "path": "/data/app/~~aYlo97hw4I6f5E8zU81PrQ==/com.google.android.apps.bard-wzL0ZZfkfWHjOfjDpbsTkw==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.android.internal.display.cutout.emulation.tall": {
+    "package": "com.android.internal.display.cutout.emulation.tall",
+    "path": "/product/overlay/DisplayCutoutEmulationTall/DisplayCutoutEmulationTallOverlay.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.funnycat.virustotal": {
+    "package": "com.funnycat.virustotal",
+    "path": "/data/app/~~cHpQSlPHCeAvLL_yon3nhQ==/com.funnycat.virustotal-TTxRrXIoxiT6-sBv34CY-A==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.android.systemui.accessibility.accessibilitymenu": {
+    "package": "com.android.systemui.accessibility.accessibilitymenu",
+    "path": "/system_ext/priv-app/AccessibilityMenu/AccessibilityMenu.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.camera2": {
+    "package": "com.android.camera2",
+    "path": "/system_ext/app/DreamCamera2/DreamCamera2.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.android.overlay.gmsconfig.Velvet": {
+    "package": "com.google.android.overlay.gmsconfig.Velvet",
+    "path": "/product/overlay/GmsConfigOverlayVelvet.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.launcher3": {
+    "package": "com.android.launcher3",
+    "path": "/system_ext/priv-app/SearchLauncherQuickStep/SearchLauncherQuickStep.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.unisoc.phone.overlay": {
+    "package": "com.android.unisoc.phone.overlay",
+    "path": "/vendor/overlay/unisoc_overlay_phone.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.duckduckgo.mobile.android": {
+    "package": "com.duckduckgo.mobile.android",
+    "path": "/data/app/~~tX2Pvp1O6M8DOHMrczDNAg==/com.duckduckgo.mobile.android-LfFvV9UWE481oOrqIYdV6w==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.google.android.cellbroadcastservice": {
+    "package": "com.google.android.cellbroadcastservice",
+    "path": "/apex/com.android.cellbroadcast/priv-app/GoogleCellBroadcastServiceModule@373040140/GoogleCellBroadcastServiceModule.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.traceur": {
+    "package": "com.android.traceur",
+    "path": "/system/app/Traceur/Traceur.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.whatsapp": {
+    "package": "com.whatsapp",
+    "path": "/data/app/~~9p83YTuOaZY1o_AQ29gOMg==/com.whatsapp-mdEG3eajPdZkqRYms9PWBQ==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.google.android.videos": {
+    "package": "com.google.android.videos",
+    "path": "/data/app/~~hdaavwCSP-9MqIJZ5dXOXQ==/com.google.android.videos-lsuGtwVTIgpEClso7xUVFg==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "android": {
+    "package": "android",
+    "path": "/system/framework/framework-res.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.android.overlay.gmsconfig.photos": {
+    "package": "com.google.android.overlay.gmsconfig.photos",
+    "path": "/product/overlay/GmsConfigOverlayPhotos.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.storagemanager": {
+    "package": "com.android.storagemanager",
+    "path": "/system_ext/priv-app/StorageManager/StorageManager.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "org.videolan.vlc": {
+    "package": "org.videolan.vlc",
+    "path": "/data/app/~~tmSeavyXJ_OI0peth1qmuQ==/org.videolan.vlc-tsfGZQ_QvwflS17u4mcuOQ==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.adguard.android.contentblocker": {
+    "package": "com.adguard.android.contentblocker",
+    "path": "/data/app/~~PmEFBVF2XiFpr0hKPfifRg==/com.adguard.android.contentblocker-KMNT2KbHT_oFgIfo_1Qwjw==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.android.providers.downloads.ui": {
+    "package": "com.android.providers.downloads.ui",
+    "path": "/system/priv-app/DownloadProviderUi/DownloadProviderUi.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.vpndialogs": {
+    "package": "com.android.vpndialogs",
+    "path": "/system/priv-app/VpnDialogs/VpnDialogs.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.google.mainline.adservices": {
+    "package": "com.google.mainline.adservices",
+    "path": "/data/app/~~qYy17nbF8ZjU8_Kqj6O_Ug==/com.google.mainline.adservices-NHUQLhpyonIsylgIK2Mhaw==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.google.android.overlay.gmsconfig.searchlauncherqs": {
+    "package": "com.google.android.overlay.gmsconfig.searchlauncherqs",
+    "path": "/system_ext/overlay/GmsConfigOverlaySearchLauncherQuickStep.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.internal.systemui.navbar.transparent": {
+    "package": "com.android.internal.systemui.navbar.transparent",
+    "path": "/product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.android.carrierconfig": {
+    "package": "com.android.carrierconfig",
+    "path": "/system_ext/priv-app/CarrierConfig/CarrierConfig.apk",
+    "original_state": "enabled",
+    "is_system": true
+  },
+  "com.velox.prime": {
+    "package": "com.velox.prime",
+    "path": "/data/app/~~DFidAvTnVF_JLuon55_1Ag==/com.velox.prime-H9NFIlRGyVE98pGCocIzIg==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.termux": {
+    "package": "com.termux",
+    "path": "/data/app/~~eZ6ILAceibqhj0GCdLE_aQ==/com.termux-RIcrj_jAGeLAEqeySLsXVw==/base.apk",
+    "original_state": "enabled",
+    "is_system": false
+  },
+  "com.android.credentialmanager": {
+    "package": "com.android.credentialmanager",
+    "path": "/system/priv-app/CredentialManager/CredentialManager.apk",
+    "original_state": "enabled",
+    "is_system": true
+  }
+}
